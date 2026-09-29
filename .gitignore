@@ -1,0 +1,42 @@
+# Unity-generated content (in case tools are run from this repository)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Test output and coverage
+[Tt]est[Rr]esults/
+[Cc]overage/
+*.coverage
+*.coveragexml
+*.trx
+
+# IDE and generated build files
+.idea/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# These two projects are authored standalone build definitions, not Unity output.
+!src/Syms/Syms.Runtime.csproj
+!tests/Syms.Tests.csproj
+
+# OS metadata
+.DS_Store
+Thumbs.db
